@@ -87,12 +87,14 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
 </h2>
 <br />
-  <a href="mailto:schmid.boxer@email.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/outlook-new.png"  width="50" /></a>
+  <a href="mailto:schmid.boxer@email.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/outlook.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/lithOoAFdWrl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/a/NeverCry3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://zachary-miller-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+    <a href="https://discord.gg/4Bqh24FK" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://schmid.boxer1-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
 </div>
